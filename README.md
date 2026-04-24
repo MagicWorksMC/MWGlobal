@@ -1,2 +1,2 @@
-# MWPack
-Considered the main/primary resource pack for MagicWorksMC
+# MWGlobal
+Considered the UI and other global assets resource pack for MagicWorksMC
