@@ -1,5 +1,5 @@
 {
-	"parent": "block/template_chain",
+	"parent": "block/template_chain_default",
 	"textures": {
 		"all": "block/iron_chain"
 	}

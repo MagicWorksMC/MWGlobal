@@ -3,8 +3,8 @@
 	"credit": "Created by Stridey",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "iron_bars",
-		"bars": "iron_bars"
+		"particle": "#bars",
+		"bars": "#bars"
 	},
 	"elements": [
 		{
@@ -33,11 +33,12 @@
 		},
 		{
 			"name": "Box4",
-			"from": [7.5002, 0.00056, 7.00021],
-			"to": [8.5002, 16.00056, 8.00021],
+			"from": [7.5002, 0.50056, 7.00021],
+			"to": [8.5002, 15.5056, 8.00021],
 			"faces": {
 				"north": {"uv": [13, 0, 14, 16], "texture": "#bars"},
 				"east": {"uv": [13, 0, 14, 16], "texture": "#bars"},
+				"south": {"uv": [12, 0, 13, 16], "texture": "#bars"},
 				"west": {"uv": [12, 0, 13, 16], "texture": "#bars"}
 			}
 		},
@@ -54,8 +55,8 @@
 		},
 		{
 			"name": "Box4",
-			"from": [7.50039, -0.00047, 1.99979],
-			"to": [8.50039, 15.99953, 3.99979],
+			"from": [7.50039, 0.50056, 1.99979],
+			"to": [8.50039, 15.5056, 3.99979],
 			"faces": {
 				"north": {"uv": [13, 0, 14, 16], "texture": "#bars"},
 				"east": {"uv": [12, 0, 14, 16], "texture": "#bars"},
