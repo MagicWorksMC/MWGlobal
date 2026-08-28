@@ -2,7 +2,7 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "minecraft:leather",
+        "texture": "clothes:shirts/blank_shirt",
         "dyeable": {
           "color_when_undyed": -1
         }

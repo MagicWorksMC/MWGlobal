@@ -2,13 +2,13 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "minecraft:leather",
+        "texture": "clothes:shirts/blank_shirt",
         "dyeable": {
           "color_when_undyed": -1
         }
       },
       {
-        "texture": "custom:shirts/farewell_uoe_overlay"
+        "texture": "clothes:shirts/farewell_uoe_overlay"
       }
     ]
   }
