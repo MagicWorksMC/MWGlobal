@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_chestplate",
+    "layer0": "clothes:item/shirts/blank_shirt",
     "layer1": "clothes:item/shirts/progress_icon"
   }
 }
