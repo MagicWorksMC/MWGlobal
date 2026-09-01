@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "clothes:item/shirts/blank_shirt",
-    "layer1": "clothes:item/shirts/fuse_logo_icon"
+    "layer1": "clothes:item/shirts/ctx_icon"
   }
 }

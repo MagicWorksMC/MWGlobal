@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "clothes:shirts/blank_shirt",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      },
+      {
+        "texture": "clothes:shirts/ah_overlay"
+      }
+    ]
+  }
+}
