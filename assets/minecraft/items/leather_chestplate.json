@@ -11,14 +11,14 @@
         },
           "model": {
             "type": "minecraft:model",
-            "model": "clothes:item/shirts/progress_icon",
+            "model": "clothes:item/shirts/progress_model",
             "tints": [
-                {
-                  "type": "minecraft:dye",
-                  "default": -1
-                }
-              ]
-            }
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
       },
       {
         "when": {
@@ -27,14 +27,14 @@
         },
           "model": {
             "type": "minecraft:model",
-            "model": "clothes:item/shirts/preserve_icon",
+            "model": "clothes:item/shirts/preserve_model",
             "tints": [
-                {
-                  "type": "minecraft:dye",
-                  "default": -1
-                }
-              ]
-            }
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
       },
       {
         "when": {
@@ -43,30 +43,94 @@
         },
           "model": {
             "type": "minecraft:model",
-            "model": "clothes:item/shirts/farewell_uoe",
+            "model": "clothes:item/shirts/farewell_uoe_model",
             "tints": [
-                {
-                  "type": "minecraft:dye",
-                  "default": -1
-                }
-              ]
-            }
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
       },
       {
         "when": {
             "slot": "chest",
-            "asset_id": "clothes:shirts/fuse_logo"
+            "asset_id": "clothes:shirts/fuse"
         },
           "model": {
             "type": "minecraft:model",
-            "model": "clothes:item/shirts/fuse_logo",
+            "model": "clothes:item/shirts/fuse_model",
             "tints": [
-                {
-                  "type": "minecraft:dye",
-                  "default": -1
-                }
-              ]
-            }
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
+      },
+      {
+        "when": {
+            "slot": "chest",
+            "asset_id": "clothes:shirts/ah"
+        },
+          "model": {
+            "type": "minecraft:model",
+            "model": "clothes:item/shirts/ah_model",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
+      },
+      {
+        "when": {
+            "slot": "chest",
+            "asset_id": "clothes:shirts/ctx"
+        },
+          "model": {
+            "type": "minecraft:model",
+            "model": "clothes:item/shirts/ctx_model",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
+      },
+      {
+        "when": {
+            "slot": "chest",
+            "asset_id": "clothes:shirts/everest"
+        },
+          "model": {
+            "type": "minecraft:model",
+            "model": "clothes:item/shirts/everest_model",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
+      },
+      {
+        "when": {
+            "slot": "chest",
+            "asset_id": "clothes:shirts/mw"
+        },
+          "model": {
+            "type": "minecraft:model",
+            "model": "clothes:item/shirts/mw_model",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": -1
+              }
+            ]
+          }
       }
     ],
     "fallback": {
