@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/posters/2x3-template",
+    "textures": {
+        "poster": "custom:item/posters/nosferatu"
+    }
+}
